@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35521.163 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotRemover", "SpotRemover.csproj", "{DE161E73-A526-4FEB-B097-FA6DC1F43E34}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotRemover", "SpotRemover.csproj", "{CADF8EF2-1A13-4288-BEA7-ED6DA0225A22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DE161E73-A526-4FEB-B097-FA6DC1F43E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DE161E73-A526-4FEB-B097-FA6DC1F43E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DE161E73-A526-4FEB-B097-FA6DC1F43E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DE161E73-A526-4FEB-B097-FA6DC1F43E34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CADF8EF2-1A13-4288-BEA7-ED6DA0225A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADF8EF2-1A13-4288-BEA7-ED6DA0225A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADF8EF2-1A13-4288-BEA7-ED6DA0225A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADF8EF2-1A13-4288-BEA7-ED6DA0225A22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
