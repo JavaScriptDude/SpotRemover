@@ -41,5 +41,4 @@ The desktop app is available for Windows, MacOS and Linux. For linux use `snap`.
 
 
 ## Virus scanner notes
-* The source code is available but if your virus scanner uses MaxSecure with VirusTotal, you may get a false positive for `
-Trojan.Malware.300983.susgen`. This is a very common false positive that I have no idea of how to get around besides rewriting it in another language.
+* The source code is available but if your virus scanner uses MaxSecure with VirusTotal, you may get a false positive for `Trojan.Malware.300983.susgen`. This is a very common false positive that I have no idea of how to get around besides rewriting it in another language.
