@@ -30,3 +30,16 @@ The desktop app is available for Windows, MacOS and Linux. For linux use `snap`.
   * This can be very slow for long lists, so be patient.
   * You can use process explorer to monitor the progress of the app.
 
+
+## Release 1.0.1 zip Hashes
+|type|data|
+|---|---|
+|MD5|3463f80a17dd48ba084a7f4dcd92661d|
+|SHA-1|93610a3b81d300bb3aa9067a91db18476401a6b7|
+|SHA-256|dc27a029b2d1825e371b463dc5c562ac268fa9d89d3b0f4743bbcad0d8c3d687|
+|VirusTotal|https://www.virustotal.com/gui/file/dc27a029b2d1825e371b463dc5c562ac268fa9d89d3b0f4743bbcad0d8c3d687/details|
+
+
+## Virus scanner notes
+* The source code is available but if your virus scanner uses MaxSecure with VirusTotal, you may get a false positive for `
+Trojan.Malware.300983.susgen`. This is a very common false positive that I have no idea of how to get around besides rewriting it in another language.
